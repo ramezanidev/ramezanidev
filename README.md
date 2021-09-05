@@ -1,6 +1,6 @@
-# Hi👋, I'm Reza Ramezan
-I'm a Front-end Web Developer And Based On Iran, Khoy \
-I'm Interested in Learning Back-end
+# Hi👋, I'm Reza Ramezan ⚜️
+I'm a Front-end Web Developer And 🏡 Based On Iran, Khoy \
+❣️ I'm Interested in Learning Back-end
 
 #### My Resume: [Resume](https://ramezanidev.github.io/)
 ![](https://komarev.com/ghpvc/?username=ramezanidev&style=flat&color=0055ff)
@@ -12,7 +12,6 @@ FrontEnd: [
     TypeScript,
     VueJs,
     NuxtJs,
-    MySQL
 ]
 
 BackEnd: [
@@ -108,3 +107,5 @@ BackEnd: [
     <img align="center" src="https://iconape.com/wp-content/png_logo_vector/jquery.png" alt="jquery" height="40" width="40" />
 </a>
 </p>
+
+### 💻 My Desktop
