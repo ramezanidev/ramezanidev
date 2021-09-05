@@ -110,4 +110,4 @@ BackEnd: [
 
 ## 💻 My Desktop
 ##### ManjaroOS + GnomeDESKTOP
-![ManjaroOS_GnomeDESKTOP](https://raw.githubusercontent.com/tahadostifam/ramezanidev/main/desktop.png)
+![ManjaroOS_GnomeDESKTOP](https://github.com/ramezanidev/ramezanidev/blob/main/desktop.png?raw=true)
