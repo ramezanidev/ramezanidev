@@ -5,7 +5,7 @@ I'm a Front-end Web Developer And 🏡 Based On Iran, Khoy \
 #### My Resume: [Resume](https://ramezanidev.github.io/)
 ![](https://komarev.com/ghpvc/?username=ramezanidev&style=flat&color=0055ff)
 
-### Languages And Technologies I Use
+### Languages And Technologies I Use 🔱
 ```js
 FrontEnd: [
     JavaScript,
@@ -20,7 +20,7 @@ BackEnd: [
     MySQL
 ]
 ```
-# Languages & Tools Detail
+## Languages & Tools Detail 🔱
 <p align="center">
         
 <a href="https://www.w3schools.com/html/">
@@ -108,4 +108,6 @@ BackEnd: [
 </a>
 </p>
 
-### 💻 My Desktop
+## 💻 My Desktop
+##### ManjaroOS + GnomeDESKTOP
+![ManjaroOS_GnomeDESKTOP](https://raw.githubusercontent.com/tahadostifam/ramezanidev/main/desktop.png)
