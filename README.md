@@ -5,7 +5,7 @@ I'm Interested in Learning Back-end
 #### My Resume: [Resume](https://ramezanidev.github.io/)
 ### Languages And Technologies I Use
 ```js
-Front-end: [
+FrontEnd: [
     JavaScript,
     TypeScript,
     VueJs,
@@ -13,7 +13,7 @@ Front-end: [
     MySQL
 ]
 
-Back-end: [
+BackEnd: [
     NodeJs,
     ExpressJs,
     MySQL
