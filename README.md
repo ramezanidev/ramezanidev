@@ -2,8 +2,8 @@
 I'm a Front-end Web Developer And Based On Iran, Khoy \
 I'm Interested in Learning Back-end
 
-#### My Resume: [Resume](https://ramezanidev.github.io/)\
-![](https://komarev.com/ghpvc/?username=ramezanidev)
+#### My Resume: [Resume](https://ramezanidev.github.io/)
+![](https://komarev.com/ghpvc/?username=ramezanidev&style=flat&color=0055ff)
 
 ### Languages And Technologies I Use
 ```js
