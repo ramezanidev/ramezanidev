@@ -99,7 +99,7 @@ BackEnd: [
 </a>
 
 <a href="https://tailwindcss.com/">
-    <img align="center" src="https://iconape.com/wp-content/png_logo_vector/tailwind-css-logo.png" alt="tailwindcss" height="40" width="40" />
+    <img align="center" src="https://iconape.com/wp-content/png_logo_vector/tailwind-css-logo.png" alt="tailwindcss" height="40" width="60" />
 </a>
     
 <a href="https://jquery.com/">
