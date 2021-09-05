@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi👋, I'm Reza Ramezan
+I'm a Front-end Web Developer And Based On Iran, Khoy
 
-<!--
-**ramezanidev/ramezanidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages And Technologies I Use
+```js
+[
+    JavaScript,
+    TypeScript,
+    NodeJs,
+    VueJs,
+    NuxtJs,
+    MySQL
+]
+```
