@@ -21,6 +21,11 @@ BackEnd: [
 ```
 # Languages & Tools Detail
 <p align="center">
+        
+<a href="https://www.w3schools.com/html/">
+    <img align="center" src="https://iconape.com/wp-content/png_logo_vector/html-5-2.png" alt="html" height="40" width="40" />
+</a>
+    
 <a href="https://www.w3schools.com/css/">
     <img align="center" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="css" height="42" width="40" />
 </a>
@@ -63,9 +68,41 @@ BackEnd: [
     
 <a href="https://www.typescriptlang.org/">
     <img align="center" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" alt="typescript" height="40" width="40" />
+</a>  
+    
+<a href="https://www.markdownguide.org/">
+    <img align="center" src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg" alt="markdown" height="40" width="40" />
+</a> 
+
+<a href="https://svelte.dev/">
+    <img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_svelte_icon_130137.png" alt="svelte" height="40" width="40" />
 </a>    
- 
+
 <a href="https://getbootstrap.com/">
     <img align="center" src="https://img.icons8.com/color/452/bootstrap.png" alt="bootstrap" height="40" width="40" />
 </a>  
+
+<a href="https://eslint.org/">
+    <img align="center" src="https://img.icons8.com/color/452/bootstrap.png" alt="eslint" height="40" width="40" />
+</a>  
+
+<a href="https://yarnpkg.com/">
+    <img align="center" src="https://iconape.com/wp-content/files/sv/371673/svg/371673.svg" alt="yarnpkg" height="40" width="40" />
+</a>  
+
+<a href="https://vitejs.dev/">
+    <img align="center" src="https://vitejs.dev/logo.svg" alt="vitejs" height="40" width="40" />
+</a>
+    
+<a href="https://manjaro.org/">
+    <img align="center" src="https://manjaro.org/img/logo.svg" alt="manjaro" height="40" width="40" />
+</a>
+
+<a href="https://tailwindcss.com/">
+    <img align="center" src="https://iconape.com/wp-content/png_logo_vector/tailwind-css-logo.png" alt="tailwindcss" height="40" width="40" />
+</a>
+    
+<a href="https://jquery.com/">
+    <img align="center" src="https://iconape.com/wp-content/png_logo_vector/jquery.png" alt="jquery" height="40" width="40" />
+</a>
 </p>
