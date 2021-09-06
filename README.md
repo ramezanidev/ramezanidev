@@ -1,4 +1,4 @@
-# Hi👋, I'm Reza Ramezan ⚜️
+# Hi👋, I'm Reza Ramezani ⚜️
 I'm a Front-end Web Developer And 🏡 Based On Iran, Khoy \
 ❣️ I'm Interested in Learning Back-end
 
