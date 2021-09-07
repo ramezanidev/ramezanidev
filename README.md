@@ -5,7 +5,7 @@ I'm a Front-end Web Developer And 🏡 Based On Iran, Khoy \
 #### My Resume: [Resume](https://ramezanidev.github.io/)
 ![](https://komarev.com/ghpvc/?username=ramezanidev&style=flat&color=0055ff) \
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramezanidev&show_icons=true&theme=radical) \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramezanidev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramezanidev&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
