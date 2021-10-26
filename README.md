@@ -110,9 +110,9 @@ BackEnd: [
 </p>
 
 ## 💻 My Project
-> [Landing Page](https://landing-page-lime.vercel.app/) `typescript` `hbs` `tailwindcss` `vitejs`
-> [Educational Site Template](https://educational-site-template.vercel.app/) `vuejs` `nuxtjs` `vuetifyjs` `mdi`
-> [Weather App](https://weather-app-vuejs.vercel.app/) `vue` `vue-cli` `openweathermap api`
+- [Landing Page](https://landing-page-lime.vercel.app/) `typescript` `hbs` `tailwindcss` `vitejs`
+- [Educational Site Template](https://educational-site-template.vercel.app/) `vuejs` `nuxtjs` `vuetifyjs` `mdi`
+- [Weather App](https://weather-app-vuejs.vercel.app/) `vue` `vue-cli` `openweathermap api`
 ## 💻 My Desktop
 ##### ManjaroOS + GnomeDESKTOP
 ![ManjaroOS_GnomeDESKTOP](https://github.com/ramezanidev/ramezanidev/blob/main/desktop.png?raw=true)
