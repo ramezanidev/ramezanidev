@@ -13,6 +13,7 @@ FrontEnd: [
     TypeScript,
     VueJs,
     NuxtJs,
+    TailwindCss
 ]
 
 BackEnd: [
