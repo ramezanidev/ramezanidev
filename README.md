@@ -119,6 +119,7 @@ BackEnd: [
 
 ## 📞 Social Media
 - [Phone Number](tel:+98-991-622-3724): +98-991-622-3724
+- [linkedin](https://www.linkedin.com/in/ramezanidev/): @ramezanidev
 
 ## 💻 My Desktop
 ##### ManjaroOS + GnomeDESKTOP
