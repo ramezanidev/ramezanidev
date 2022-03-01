@@ -2,7 +2,7 @@
 I'm a Front-end Web Developer And 🏡 Based On Iran, Khoy \
 ❣️ I'm Interested in Learning Back-end
 
-#### My Resume: [Resume](https://ramezanidev.github.io/)
+#### My Resume: [Resume](https://ramezanidev-resume.vercel.app/)
 ![](https://komarev.com/ghpvc/?username=ramezanidev&style=flat&color=0055ff) 
 
 
