@@ -110,7 +110,8 @@ BackEnd: [
 </a>
 </p>
 
-## 💻 My Project
+## 💻 My Project 
+- [Music Player](https://music-player-ramezanidev.vercel.app/) `typescript` `pwa` `tailwindcss` `vitejs` `pinia`
 - [Landing Page](https://landing-page-lime.vercel.app/) `typescript` `hbs` `tailwindcss` `vitejs`
 - [Messenger](https://views-ramezanidev.vercel.app/) `typescript` `sass` `tailwindcss` `vitejs` `socketio`
 - [PlazaMovie](https://plazamovie.vercel.app/) `vuejs` `nuxtjs` `typescript` `tailwindcss`
