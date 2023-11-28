@@ -1,5 +1,5 @@
 # Hi👋, I'm Reza Ramezani ⚜️
-I'm a Front-end Web Developer And 🏡 Based On Iran, Khoy \
+I'm a Front-end Web Developer And 🏡 Based On Iran, Urmia \
 ❣️ I'm Interested in Learning Back-end
 
 #### My Resume: [Resume](https://ramezanidev-resume.vercel.app/)
