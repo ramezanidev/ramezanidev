@@ -19,7 +19,6 @@ FrontEnd: [
 BackEnd: [
     NodeJs,
     ExpressJs,
-    MySQL
 ]
 ```
 ## Languages & Tools Detail 🔱
@@ -96,10 +95,6 @@ BackEnd: [
 <a href="https://vitejs.dev/">
     <img align="center" src="https://vitejs.dev/logo.svg" alt="vitejs" height="40" width="40" />
 </a>
-    
-<a href="https://manjaro.org/">
-    <img align="center" src="https://manjaro.org/img/logo.svg" alt="manjaro" height="40" width="40" />
-</a>
 
 <a href="https://tailwindcss.com/">
     <img align="center" src="https://iconape.com/wp-content/png_logo_vector/tailwind-css-logo.png" alt="tailwindcss" height="40" width="60" />
@@ -110,18 +105,10 @@ BackEnd: [
 </a>
 </p>
 
-## 💻 My Project 
-- [Music Player](https://music-player-ramezanidev.vercel.app/) `typescript` `pwa` `tailwindcss` `vitejs` `pinia`
-- [Landing Page](https://landing-page-lime.vercel.app/) `typescript` `hbs` `tailwindcss` `vitejs`
-- [Messenger](https://views-ramezanidev.vercel.app/) `typescript` `sass` `tailwindcss` `vitejs` `socketio`
-- [PlazaMovie](https://plazamovie.vercel.app/) `vuejs` `nuxtjs` `typescript` `tailwindcss`
-- [Educational Site Template](https://educational-site-template.vercel.app/) `vuejs` `nuxtjs` `vuetifyjs` `mdi`
-- [Weather App](https://weather-app-vuejs.vercel.app/) `vue` `vue-cli` `openweathermap api`
-
 ## 📞 Social Media
 - [Phone Number](tel:+98-991-622-3724): +98-991-622-3724
 - [linkedin](https://www.linkedin.com/in/ramezanidev/): @ramezanidev
 
 ## 💻 My Desktop
-##### ManjaroOS + GnomeDESKTOP
-![ManjaroOS_GnomeDESKTOP](https://github.com/ramezanidev/ramezanidev/blob/main/desktop.png?raw=true)
+##### Ubuntu + GnomeDESKTOP
+![UbuntuOS_GnomeDESKTOP](https://github.com/ramezanidev/ramezanidev/blob/main/desktop.png?raw=true)
