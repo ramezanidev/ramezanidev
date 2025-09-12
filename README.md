@@ -111,4 +111,4 @@ BackEnd: [
 
 ## 💻 My Desktop
 ##### Ubuntu + GnomeDESKTOP
-![UbuntuOS_GnomeDESKTOP](https://github.com/ramezanidev/ramezanidev/blob/main/desktop.png?raw=true)
+![UbuntuOS_GnomeDESKTOP](https://github.com/ramezanidev/ramezanidev/blob/main/desktop.png?raw=true?v=2)
